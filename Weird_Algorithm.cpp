@@ -1,3 +1,9 @@
+/* 
+  Ý tưởng bài toán :
+    - ta sẽ chạy code trâu đến khi n == 1 ;
+    - nếu n != 1 ta thay đổi giá trị của n theo như yêu cầu đề bài;
+*/
+
 #include <bits/stdc++.h>
  
 using namespace std;
